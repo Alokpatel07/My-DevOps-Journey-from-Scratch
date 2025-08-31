@@ -49,7 +49,7 @@ Each month is with detailed goals, resources, and notes.
 
 | Month | Focus                | Status     |
 | ----- | -------------------- | ---------- |
-| 1     | Fundamentals         | ⏳ Pending |
+| 1     | Fundamentals         | 🚀In Progress .. |
 | 2     | Git, Python          | ⏳ Pending |
 | 3     | Containers, Cloud    | ⏳ Pending |
 | 4     | IaC, CI/CD           | ⏳ Pending |
