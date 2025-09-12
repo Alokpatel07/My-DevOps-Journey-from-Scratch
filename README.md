@@ -10,8 +10,8 @@ Each month is with detailed goals, resources, and notes.
 ### Month 1 – Fundamentals
 
 - Networking
-- Linux
 - Shell Scripting
+- Linux
 
 ### Month 2 – Git, GitHub & Python
 
