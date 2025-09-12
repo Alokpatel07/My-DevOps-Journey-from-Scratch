@@ -15,13 +15,6 @@ This month builds the **foundational skills** for DevOps: Linux and Networking.
 - SSH & Secure Connections , Firewalls, Load Balancing, Proxy.  
 - Troubleshooting commands: `ping`, `curl`, `netstat`, `traceroute`.
 
- ### 🔹 Linux Basics  
-- File system navigation (ls, cd, pwd, find, locate).  
-- File permissions & ownership (chmod, chown).  
-- Processes & services (ps, top, kill, systemctl).  
-- Package management (apt, yum).  
-- Users & groups management. 
-
 ### 🔹 Shell Scripting  
 - Introduction to Bash scripting.  
 - Variables, loops, and conditionals.  
@@ -29,11 +22,18 @@ This month builds the **foundational skills** for DevOps: Linux and Networking.
 - File handling using scripts.  
 - Example: Automating log cleanup. 
 
+ ### 🔹 Linux Basics  
+- File system navigation (ls, cd, pwd, find, locate).  
+- File permissions & ownership (chmod, chown).  
+- Processes & services (ps, top, kill, systemctl).  
+- Package management (apt, yum).  
+- Users & groups management. 
+
 ---
  
 
 ## 📝 Progress Tracker  
   
-- ✅ Networking for DevOps Completed 
+- ✅ Networking for DevOps Completed  
+- [ ] Shell Scripting Basics Completed
 - [ ] Linux Basics Completed 
-- [ ] Shell Scripting Basics Completed 
