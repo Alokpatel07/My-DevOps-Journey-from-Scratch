@@ -2,19 +2,19 @@
 
 ## 1. OSI and TCP/IP Model
 - **OSI Model (7 layers):**
-  1. Physical – cables, switches, signals.
-  2. Data Link – MAC addresses, Ethernet.
-  3. Network – IP addresses, routing.
-  4. Transport – TCP, UDP (ensures delivery).
-  5. Session – manages sessions between apps.
-  6. Presentation – data format, encryption, compression.
-  7. Application – user-facing protocols (HTTP, DNS, etc.).
+  1. Physical Layer – cables, switches, signals.
+  2. Data Link Layer – MAC addresses, Ethernet.
+  3. Network Layer – IP addresses, routing.
+  4. Transport Layer – TCP, UDP (ensures delivery).
+  5. Session Layer – manages sessions between apps.
+  6. Presentation Layer – data format, encryption, compression.
+  7. Application Layer – user-facing protocols (HTTP, DNS, etc.).
 
 - **TCP/IP Model (4 layers):**
-  1. Network Access – physical + data link.
-  2. Internet – IP, routing.
-  3. Transport – TCP, UDP.
-  4. Application – HTTP, FTP, DNS, etc.
+  1. Network Access Layer – physical + data link.
+  2. Internet Layer – IP, routing.
+  3. Transport Layer – TCP, UDP.
+  4. Application Layer – HTTP, FTP, DNS, etc.
 
 👉 TCP/IP is a simplified practical model, OSI is more theoretical.
 
