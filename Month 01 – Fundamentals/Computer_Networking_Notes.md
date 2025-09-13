@@ -67,3 +67,6 @@
 ---
 
 ✅ These are the core networking fundamentals you should know for cloud, DevOps, and system admin roles.
+
+
+[Download CN Handwritten Notes (PDF)](./CN_Handwritten_Notes.pdf)
