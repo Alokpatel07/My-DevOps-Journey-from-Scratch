@@ -19,8 +19,7 @@ This month builds the **foundational skills** for DevOps: Linux and Networking.
 - Introduction to Bash scripting.  
 - Variables, loops, and conditionals.  
 - Writing simple automation scripts.  
-- File handling using scripts.  
-- Example: Automating log cleanup. 
+- File handling using scripts.   
 
  ### 🔹 Linux Basics  
 - File system navigation (ls, cd, pwd, find, locate).  
