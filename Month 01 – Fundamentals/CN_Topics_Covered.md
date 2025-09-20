@@ -1,4 +1,4 @@
-# Networking Fundamentals Notes
+# Networking Fundamentals
 
 ## 1. OSI and TCP/IP Model
 - **OSI Model (7 layers):**
