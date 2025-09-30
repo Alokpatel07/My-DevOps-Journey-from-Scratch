@@ -21,12 +21,13 @@ This month builds the **foundational skills** for DevOps: Linux and Networking.
 - Writing simple automation scripts.  
 - File handling using scripts.   
 
- ### 🔹 Linux Basics  
+ ### 🔹 Linux  
 - File system navigation (ls, cd, pwd, find, locate).  
 - File permissions & ownership (chmod, chown).  
 - Processes & services (ps, top, kill, systemctl).  
 - Package management (apt, yum).  
-- Users & groups management. 
+- Users & groups management.
+- LVM (Logical Volume Management)
 
 ---
  
