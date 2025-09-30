@@ -21,8 +21,7 @@ This month builds the **foundational skills** for DevOps: Linux and Networking.
 - File handling using scripts.   
 
  ### 🔹 Linux  
-- File system navigation (ls, cd, pwd, find, locate).  
-- File permissions & ownership (chmod, chown).  
+- File system navigation (ls, cd, pwd, find) & permissions & ownership (chmod, chown).
 - Processes & services (ps, top, kill, systemctl).  
 - Package management (apt, yum).  
 - Users & groups management.
