@@ -29,9 +29,10 @@ This month builds the **foundational skills** for DevOps: Linux and Networking.
 - LVM (Logical Volume Management)
 
 ---
- 
-## 📝 Progress Tracker  
+
+ ## 📝 Progress Tracker  
   
 ✅ Networking for DevOps Completed  
 ✅ Shell Scripting Basics Completed 
- Linux for DevOps Completed
+✅ Linux for DevOps Completed
+
