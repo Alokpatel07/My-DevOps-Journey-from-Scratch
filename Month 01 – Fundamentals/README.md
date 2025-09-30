@@ -35,5 +35,5 @@ This month builds the **foundational skills** for DevOps: Linux and Networking.
 ## 📝 Progress Tracker  
   
 ✅ Networking for DevOps Completed  
-✅ Shell Scripting Basics Completed
-✅ Linux for DevOps 
+✅ Shell Scripting Basics Completed 
+✅ Linux for DevOps Completed
