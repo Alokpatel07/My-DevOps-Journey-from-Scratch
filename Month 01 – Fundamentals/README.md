@@ -1,7 +1,6 @@
 # 📅 Month 01 – Fundamentals
 
 This month builds the **foundational skills** for DevOps: Linux and Networking.
-
 ---
 
 ## 📌 Topics & Goals
