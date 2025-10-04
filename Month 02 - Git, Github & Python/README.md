@@ -13,8 +13,7 @@ This month focuses on **Git/GitHub for collaboration** and **Python fundamentals
 - GitHub repository setup and management  
 - Working with remotes (`origin`, `upstream`)  
 - Pull Requests (PRs) and code reviews  
-- Git ignore, tags, stashing, and rebasing basics  
-- GitHub Actions (Intro to CI/CD)  
+- Git ignore, tags, stashing, and rebasing basics    
 
 ### 🔹 Python for DevOps  
 - Python basics: variables, data types, operators  
