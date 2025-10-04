@@ -1,6 +1,6 @@
 # Git & GitHub for DevOps  
 
-## 1. Basics of Git  
+## 1. Basics of Git & Github 
 - Git is a **version control system** to track changes in code.  
 - Helps in **collaboration, rollback, and branching**.  
 - GitHub is a **cloud platform** to host Git repositories.  
