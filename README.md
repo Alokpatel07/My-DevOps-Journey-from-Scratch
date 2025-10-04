@@ -16,7 +16,7 @@ Each month is with detailed goals, resources, and notes.
 ### Month 2 – Git, GitHub & Python
 
 - Git & GitHub
-- Python for DevOps (Basics)
+- Python for DevOps
 
 ### Month 3 – Containers & Cloud
 
