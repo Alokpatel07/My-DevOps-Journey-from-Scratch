@@ -69,7 +69,19 @@
 
 ---
 
-## 10. GitHub Concepts  
+## 10. Git Rebase Commands  
+- `git rebase main` → Reapply your branch commits on top of main  
+- `git rebase -i <commit>` → Interactive rebase (edit, squash, reorder commits)  
+- `git rebase --continue` → Continue rebase after resolving conflicts  
+- `git rebase --abort` → Abort rebase and return to original state  
+
+**Use Case:**  
+- Keeps history **linear and clean**  
+- Helps integrate changes from main into your feature branch  
+
+---
+
+## 11. GitHub Concepts  
 - **Fork** → Copy someone else’s repo to your account  
 - **Pull Request (PR)** → Propose changes to main branch  
 - **Issues** → Track bugs, tasks, enhancements  
@@ -79,9 +91,14 @@
 
 ---
 
-## 11. Collaboration Workflow  
+## 12. Collaboration Workflow  
 1. Fork repository  
 2. Clone locally  
 3. Create new branch  
 4. Commit & push changes  
 5. Open a Pull Request (PR) on GitHub  
+6. Rebase your branch if main branch has new commits  
+   ```bash
+   git fetch origin
+   git rebase origin/main
+ 
