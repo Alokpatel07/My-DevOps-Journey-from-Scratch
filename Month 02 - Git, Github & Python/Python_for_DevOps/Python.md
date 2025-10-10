@@ -13,7 +13,7 @@ This will provides an overview of Python concepts and their applications in DevO
 
 ## 2. Intro to Datatypes, Strings, and Numbers
 - **String Data Type**: Handling text in Python.  
-- **String Manipulation & Formatting**: Concatenation, interpolation, and formatting strings.  
+- **String Manipulation & Formatting**: Concatenation, f-strings.  
 - **Regular Expressions**: Searching, matching, and processing text patterns.  
 - **Numeric Data Types**: Working with `int` and `float` for calculations and metrics.
 
