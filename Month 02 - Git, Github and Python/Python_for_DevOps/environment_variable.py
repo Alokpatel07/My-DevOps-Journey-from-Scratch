@@ -11,8 +11,10 @@ import os
 
 """ 1. On Windows (Command Prompt) 
        set MY_NAME="Alok" """
+
 """ 2. On Windows (Power Shell)
        $env:MY_NAME="Alok" """
+
 """ 3. On Linux/Mac
        export MY_NAME="Alok" """
 
