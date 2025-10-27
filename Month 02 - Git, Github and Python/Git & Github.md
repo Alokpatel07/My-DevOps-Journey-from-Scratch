@@ -100,5 +100,5 @@
 6. Rebase your branch if main branch has new commits  
    ```bash
    git fetch origin
-   git rebase origin/main
+   git rebase origin
  
