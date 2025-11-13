@@ -29,4 +29,4 @@ This month focuses on **Git/GitHub for collaboration** and **Python fundamentals
 ## 📝 Progress Tracker  
 
 ✅ Git & GitHub Completed  
-[ ] Python for DevOps
+✅ Python for DevOps
